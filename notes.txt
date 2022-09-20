@@ -1,0 +1,11 @@
+If I get more time,
+
+I could have improve the UI and design pattern.
+Could use interface and abstract classes if possible
+could have improve the design to give dropdown to Title, can implement null hadling cases.
+Can do error handling and missing values.
+
+Migration scripts used:
+Enable-migrations
+Add-Migration CreateCustomerTable
+Update-Database 
